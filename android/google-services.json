@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "80346729517",
+    "firebase_url": "https://loginauth-bb43b.firebaseio.com",
+    "project_id": "loginauth-bb43b",
+    "storage_bucket": "loginauth-bb43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80346729517:android:3ea1979c572de204",
+        "android_client_info": {
+          "package_name": "com.example.firebaseflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80346729517-qho2k4d6f1bjar8j9l7vdcmmfj885fkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi0PCxtQvij_heaubgOnaSFaygo6lQfEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
